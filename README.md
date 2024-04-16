@@ -6,12 +6,15 @@ Creative Bubble & Bar:
 
 ![CreativeBar03](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/0785dca0-f99f-4a34-886e-f4b34dbbc342)
 
+Creative Circle:
+
+![Circle01](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/6f6f7217-0fe8-4fed-9244-19435e564c4b)
+
 Creative Combo:
 
 ![Creative01](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/b4c8cc09-6b4b-4a9e-a8b1-bb8130db767f)
 
-![Combo01](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/9722a28d-fbc9-4e04-97e7-0caf163441c3)
-![Combo01](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/7ed4594a-9a26-4101-bf54-8c7c9951a0c7)
+![WorldAppsDecs](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/60ad7d01-b465-4568-af57-379f757a4a99)
 
 Creative Reports:
 
