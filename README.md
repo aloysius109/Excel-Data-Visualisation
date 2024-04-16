@@ -1,5 +1,11 @@
 This repository contains Excel data visualisation examples.
 
+Simple bar charts:
+
+![Excel11](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/ca10b3b0-970b-4b76-9970-5b759c135fd4)
+
+![Excel12](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/cd36b6ab-4f06-474b-bb82-5a106c098e0b)
+
 Gauge chart:
 
 ![Excel03](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/906c6b06-a950-4e19-b36b-5d680e3ac814)
