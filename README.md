@@ -14,7 +14,7 @@ Creative Combo:
 
 ![Creative01](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/b4c8cc09-6b4b-4a9e-a8b1-bb8130db767f)
 
-![WorldAppsDecs](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/60ad7d01-b465-4568-af57-379f757a4a99)
+![WorldAppsDecs](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/50163ddf-accc-4c99-980e-a60f74d23fc2)
 
 Creative Reports:
 
