@@ -24,8 +24,6 @@ Creative Reports:
 
 ![Creative03](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/7cb06d0c-350c-48d5-84c0-ed627871df6d)
 
-![Creative04](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/6228e525-69db-4296-bd00-5c22abb0e89c)
-
 ![Creative05](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/e89cf8b5-0591-4288-a8ab-af0477bd3b19)
 
 Simple bar charts:
