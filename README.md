@@ -8,13 +8,15 @@ Simple bar charts:
 
 Gauge chart:
 
-![Excel03](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/906c6b06-a950-4e19-b36b-5d680e3ac814)
+![GaugeChart](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/ca3ab61f-0acb-4cb5-b364-8084576c3f2f)
 
 Creative use of bar charts:
 
 ![Excel04](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/4dae063c-458f-4743-a264-93f9f3b3eeff)
 
 ![Excel08](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/c540fe30-7d15-40c6-95a3-8d60916f5b6b)
+
+![Excel01](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/157a7a4f-aed9-439e-a750-780a07f9dca8)
 
 Profit and loss chart:
 
@@ -23,3 +25,8 @@ Profit and loss chart:
 Combo charts:
 
 ![Excel10](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/ebe23694-87fa-49cd-b222-9a60c7159229)
+
+Waterfall:
+
+![Excel02](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/53f70ff5-70b2-49ad-9b18-55c5b8501877)
+
