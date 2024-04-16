@@ -5,6 +5,7 @@ Creative Bubble & Bar:
 ![Bubble01](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/dd4b8ba2-709d-4e61-ab8c-b6c097359135)
 
 ![CreativeBar02](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/17affff8-2361-4896-8a80-cfc3ac7c376a)
+![CreativeBar03](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/0785dca0-f99f-4a34-886e-f4b34dbbc342)
 
 Creative Combo:
 
