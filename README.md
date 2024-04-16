@@ -1,16 +1,16 @@
 This repository contains Excel data visualisation examples.
 
-Creative Combo:
-
-![Creative01](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/b4c8cc09-6b4b-4a9e-a8b1-bb8130db767f)
-
-![Combo01](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/9722a28d-fbc9-4e04-97e7-0caf163441c3)
-
 Creative Bubble & Bar:
 
 ![Bubble01](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/dd4b8ba2-709d-4e61-ab8c-b6c097359135)
 
 ![CreativeBar](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/e2133880-5e69-483a-ae88-0c7d6edb51c8)
+
+Creative Combo:
+
+![Creative01](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/b4c8cc09-6b4b-4a9e-a8b1-bb8130db767f)
+
+![Combo01](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/9722a28d-fbc9-4e04-97e7-0caf163441c3)
 
 Creative Reports:
 
