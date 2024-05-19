@@ -16,16 +16,6 @@ Creative Combo:
 
 ![WorldAppsDecs](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/50163ddf-accc-4c99-980e-a60f74d23fc2)
 
-Creative Reports:
-
-![Creative01](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/0d598e23-8a9b-48ca-8c23-d4e37671df06)
-
-![Creative02](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/890d2924-d1b9-4bee-9920-71ca5b43d494)
-
-![Creative03](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/7cb06d0c-350c-48d5-84c0-ed627871df6d)
-
-![Creative05](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/e89cf8b5-0591-4288-a8ab-af0477bd3b19)
-
 Simple bar charts:
 
 ![Excel11](https://github.com/aloysius109/Excel-Data-Visualisation/assets/92214796/ca10b3b0-970b-4b76-9970-5b759c135fd4)
